@@ -19,9 +19,9 @@ export const site = {
 
   /** The real CV that already lives in the public folder. */
   cv: {
-    href: "/fake-cv.pdf",
+    href: "/Farhad-Alom-Resume.pdf",
     /** Name the file gets when the visitor downloads it. */
-    downloadName: "Fake CV.pdf",
+    downloadName: "Farhad-Alom-Resume.pdf",
   },
 
   education: {
