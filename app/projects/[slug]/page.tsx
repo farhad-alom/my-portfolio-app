@@ -81,7 +81,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
               fill
               priority
               sizes="(max-width: 1024px) 100vw, 1152px"
-              className="object-cover"
+              className="object-cover object-top"
             />
           ) : (
             <div className="flex size-full flex-col items-center justify-center gap-2 text-muted-foreground">

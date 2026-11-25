@@ -12,7 +12,7 @@ export default function Projects() {
           id="projects-heading"
           eyebrow="Projects"
           title="Things I have built and I am building"
-          description="Hands-on projects are where I learn the most. The three cards below are placeholders, ready to be replaced with real work."
+          description="Hands-on projects are where I learn the most. Here are the full-stack applications I have built so far."
         />
 
         <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">

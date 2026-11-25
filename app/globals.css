@@ -162,6 +162,7 @@
 }
 
 @layer components {
+
   /* One shared width + padding for every section. */
   .container-page {
     @apply mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8;
@@ -185,5 +186,20 @@
     animation-duration: 0.01ms !important;
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
+  }
+}
+
+/* Bigger text on laptops and large screens. Tailwind uses rem, so everything scales together. */
+@media (min-width: 900px) {
+  html {
+    font-size: 118.5%;
+    /* 18px */
+  }
+}
+
+@media (min-width: 1440px) {
+  html {
+    font-size: 125%;
+    /* 20px */
   }
 }
