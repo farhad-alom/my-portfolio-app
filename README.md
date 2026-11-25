@@ -1,4 +1,4 @@
-# Farhad Alam — Personal Portfolio
+# Farhad Al0m — Personal Portfolio
 
 Welcome to my personal portfolio website! 👋
 
@@ -77,8 +77,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 📬 Contact Me
 
-- **Name:** Farhad Alam
-- **Email:** Forhad308@gmail.com
+- **Name:** Farhad Alom
+- **Email:** farhadwebdevs@gmail.com
 - **Phone:** +8801735287645
 - **Location:** Rajshahi, Bangladesh
 - **GitHub:** https://github.com/farhad-alom

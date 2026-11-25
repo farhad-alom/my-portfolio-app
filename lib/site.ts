@@ -3,11 +3,11 @@
  * Change it once and it updates across the whole website.
  */
 export const site = {
-  name: "Farhad Alam",
+  name: "Farhad Alom",
   title: "Aspiring Full-Stack Web Developer",
   location: "Rajshahi, Bangladesh",
-
-  email: "Forhad308@gmail.com",
+  // https://mail.google.com/mail/u/1/
+  email: "farhadwebdevs@gmail.com",
   phone: "+8801735287645",
   phoneHref: "tel:+8801735287645",
 
@@ -63,7 +63,7 @@ export const content = {
 
 export const meta = {
   description:
-    "Farhad Alam is an aspiring Full-Stack Web Developer based in Rajshahi, Bangladesh. Explore his skills in React, Next.js, Node.js and MongoDB, view his projects, and download his CV.",
+    "Farhad Alom is an aspiring Full-Stack Web Developer based in Rajshahi, Bangladesh. Explore his skills in React, Next.js, Node.js and MongoDB, view his projects, and download his CV.",
   /** Optional: set NEXT_PUBLIC_SITE_URL in .env later for absolute links (e.g. Open Graph). */
   siteUrl: process.env.NEXT_PUBLIC_SITE_URL ?? "",
 }

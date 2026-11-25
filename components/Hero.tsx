@@ -30,7 +30,7 @@ export default function Hero() {
             id="hero-heading"
             className="mt-5 font-heading text-4xl font-semibold tracking-tight text-balance sm:text-5xl"
           >
-            Hi, I&apos;m <span className="text-primary">Farhad Alam</span>
+            Hi, I&apos;m <span className="text-primary">Farhad Alom</span>
           </h1>
 
           <p className="mt-3 text-lg font-medium text-foreground/90 sm:text-xl">{site.title}</p>
@@ -95,7 +95,7 @@ export default function Hero() {
             <div className="aspect-square overflow-hidden rounded-xl bg-muted">
               <Image
                 src={profileImage}
-                alt="Portrait of Farhad Alam"
+                alt="Portrait of Farhad Alom"
                 width={560}
                 height={560}
                 priority

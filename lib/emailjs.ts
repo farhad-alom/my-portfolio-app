@@ -34,7 +34,7 @@ export async function sendContactMessage({ name, email, message }: ContactMessag
       from_email: email,
       reply_to: email,
       message,
-      to_name: "Farhad Alam",
+      to_name: "Farhad Alom",
     },
     { publicKey: PUBLIC_KEY }
   )
